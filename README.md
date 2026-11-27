@@ -8,7 +8,6 @@
 |---|---|
 | Nur Alya Sakinah | 2319444 |
 | Arifa Aqilah | 2311530 |
-| [Member 3] | [Matric] |
 
 ## Source
 - Paper: Wang et al., "YOLOv10: Real-Time End-to-End Object Detection", NeurIPS 2024. https://arxiv.org/abs/2405.14458
