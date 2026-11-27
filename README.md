@@ -6,8 +6,8 @@
 ## Members
 | Name | Matric no. |
 |---|---|
-| [Member 1] | [Matric] |
-| [Member 2] | [Matric] |
+| Nur Alya Sakinah | 2319444 |
+| Arifa Aqilah | 2311530 |
 | [Member 3] | [Matric] |
 
 ## Source
